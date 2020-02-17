@@ -2,7 +2,9 @@
   * [Scopt](https://github.com/scopt/scopt)
   * [Scallop](https://github.com/scallop/scallop) port from Ruby
   * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) port from Haskell
-* [ ] Web and Swagger UI
+* [ ] Web and Swagger UI:
+  * [Udash](https://udash.io)
+  * [ScalaWUI](https://github.com/openmole/scalaWUI)
 * [ ] JSON - [scala-json](https://github.com/MediaMath/scala-json)
 * [ ] JSON - [Jackson](https://github.com/FasterXML/jackson)
 * [ ] [sbt-native-packager](https://www.scala-sbt.org/sbt-native-packager/index.html) - [GraalVM](https://www.scala-sbt.org/sbt-native-packager/formats/graalvm-native-image.html)

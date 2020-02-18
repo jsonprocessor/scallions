@@ -2,6 +2,8 @@
   * [Scopt](https://github.com/scopt/scopt)
   * [Scallop](https://github.com/scallop/scallop) port from Ruby
   * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) port from Haskell
+  * https://github.com/bmjames/scala-optparse-applicative
+  * https://github.com/backuity/clist
 * [ ] Web and Swagger UI:
   * [Udash](https://udash.io)
   * [ScalaWUI](https://github.com/openmole/scalaWUI)
@@ -22,4 +24,13 @@
   * [Rison](https://github.com/Hronom/jackson-dataformat-rison)
   * [TOML](https://github.com/johnlcox/jackson-dataformat-toml)
 * [ ] [Jackson AntPath Property Filter](https://github.com/Antibrumm/jackson-antpathfilter)
-* [ ] [JsonPath](https://github.com/json-path/JsonPath)
+* Select
+  * [ ] [JsonPath](https://github.com/json-path/JsonPath)
+  * [ ] JQL https://github.com/benmfaul/JQL 
+  * [ ] jfunk https://github.com/mgm-tp/jfunk
+  * [ ] jolt https://github.com/bazaarvoice/jolt
+  * [ ] jsoniq
+* patch
+  * [ ] http://jsonpatch.com/
+* schema
+  * http://json-schema.org/implementations.html  

@@ -44,5 +44,5 @@
     * spray-json
     * play-json
     * circe
-* schema
-  * http://json-schema.org/implementations.html  
+* Json Schema http://json-schema.org/implementations.html  
+  * [ ] https://github.com/FasterXML/jackson-module-jsonSchema

@@ -26,9 +26,10 @@
 * [ ] [Jackson AntPath Property Filter](https://github.com/Antibrumm/jackson-antpathfilter)
 * Select
   * [ ] [JsonPath](https://github.com/json-path/JsonPath)
+  * [ ] [JsonSurfer](https://github.com/jsurfer/JsonSurfer)
+  * [ ] [jolt](https://github.com/bazaarvoice/jolt)
   * [ ] [JQL](https://github.com/benmfaul/JQL)
   * [ ] [jfunk](https://github.com/mgm-tp/jfunk)
-  * [ ] [jolt](https://github.com/bazaarvoice/jolt)
   * [ ] jsoniq
 * patch
   * [ ] http://jsonpatch.com/

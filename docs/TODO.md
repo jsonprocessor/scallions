@@ -30,7 +30,8 @@
   * [ ] [jolt](https://github.com/bazaarvoice/jolt)
   * [ ] [JQL](https://github.com/benmfaul/JQL)
   * [ ] [jfunk](https://github.com/mgm-tp/jfunk)
-  * [ ] jsoniq
+* jsoniq
+  * [ ] [Rumble](https://github.com/RumbleDB/rumble)
 * patch
   * [ ] http://jsonpatch.com/
 * schema

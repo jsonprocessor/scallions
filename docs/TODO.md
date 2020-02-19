@@ -33,9 +33,10 @@
 * jsoniq
   * [ ] [Rumble](https://github.com/RumbleDB/rumble)
 * Json Pointer (RFC-6901)  
+ * [ ] Jackson
 * [Json Patch](http://jsonpatch.com/) (RFC 6902)
-  * [ ] [zjsonpatch](https://github.com/flipkart-incubator/zjsonpatch)
   * [ ] [json-patch](https://github.com/java-json-tools/json-patch) using Jackson
+  * [ ] [zjsonpatch](https://github.com/flipkart-incubator/zjsonpatch)
 * Json Merge Patches (RFC-7396)  
 * RFC-6901, RFC-6902, RFC-7396 
   * [ ] [Jakarta JSON Processing ](https://github.com/eclipse-ee4j/jsonp)

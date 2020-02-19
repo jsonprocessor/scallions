@@ -46,3 +46,13 @@
     * circe
 * Json Schema http://json-schema.org/implementations.html  
   * [ ] https://github.com/FasterXML/jackson-module-jsonSchema
+* Json Shcema Validators
+  * [ ] https://github.com/everit-org/json-schema
+  * [ ] https://github.com/leadpony/justify
+  * [ ] https://github.com/networknt/json-schema-validator
+* Json Schema Generators
+  * [ ] https://github.com/victools/jsonschema-generator
+  * [ ] https://github.com/andyglow/scala-jsonschema
+  * [ ] https://github.com/snowplow/schema-guru
+* Json Generators from schemas
+  * [ ] https://github.com/schlothauer-wauer/jsoncodegen

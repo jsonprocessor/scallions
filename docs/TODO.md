@@ -1,9 +1,9 @@
 * [ ] [Portable Scala](https://github.com/portable-scala/sbt-crossproject) and CLI
   * [Scopt](https://github.com/scopt/scopt)
   * [Scallop](https://github.com/scallop/scallop) port from Ruby
-  * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) port from Haskell
-  * https://github.com/bmjames/scala-optparse-applicative
-  * https://github.com/backuity/clist
+  * [scala-optparse-applicative](https://github.com/bmjames/scala-optparse-applicative)  port from Haskell (unsupported)
+  * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) port from Haskell (fork)
+  * [clist](https://github.com/backuity/clist) (mutable)
 * [ ] Web and Swagger UI:
   * [Udash](https://udash.io)
   * [ScalaWUI](https://github.com/openmole/scalaWUI)
@@ -26,9 +26,9 @@
 * [ ] [Jackson AntPath Property Filter](https://github.com/Antibrumm/jackson-antpathfilter)
 * Select
   * [ ] [JsonPath](https://github.com/json-path/JsonPath)
-  * [ ] JQL https://github.com/benmfaul/JQL 
-  * [ ] jfunk https://github.com/mgm-tp/jfunk
-  * [ ] jolt https://github.com/bazaarvoice/jolt
+  * [ ] [JQL](https://github.com/benmfaul/JQL)
+  * [ ] [jfunk](https://github.com/mgm-tp/jfunk)
+  * [ ] [jolt](https://github.com/bazaarvoice/jolt)
   * [ ] jsoniq
 * patch
   * [ ] http://jsonpatch.com/

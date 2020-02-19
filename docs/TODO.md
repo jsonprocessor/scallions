@@ -32,7 +32,16 @@
   * [ ] [jfunk](https://github.com/mgm-tp/jfunk)
 * jsoniq
   * [ ] [Rumble](https://github.com/RumbleDB/rumble)
-* patch
-  * [ ] http://jsonpatch.com/
+* Json Pointer (RFC-6901)  
+* [Json Patch](http://jsonpatch.com/) (RFC 6902)
+  * [ ] [zjsonpatch](https://github.com/flipkart-incubator/zjsonpatch)
+  * [ ] [json-patch](https://github.com/java-json-tools/json-patch) using Jackson
+* Json Merge Patches (RFC-7396)  
+* RFC-6901, RFC-6902, RFC-7396 
+  * [ ] [Jakarta JSON Processing ](https://github.com/eclipse-ee4j/jsonp)
+  * [ ] [zjsonpatch](https://github.com/gnieh/diffson)
+    * spray-json
+    * play-json
+    * circe
 * schema
   * http://json-schema.org/implementations.html  

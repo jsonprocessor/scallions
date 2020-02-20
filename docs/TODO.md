@@ -10,6 +10,7 @@
 * [ ] JSON - [scala-json](https://github.com/MediaMath/scala-json)
 * [ ] JSON - [Jackson](https://github.com/FasterXML/jackson)
 * [ ] [sbt-native-packager](https://www.scala-sbt.org/sbt-native-packager/index.html) - [GraalVM](https://www.scala-sbt.org/sbt-native-packager/formats/graalvm-native-image.html)
+* [ ] GCJ
 * [ ] Java Bytecode to WebAssemblly
   * https://github.com/konsoletyper/teavm
   * https://github.com/i-net-software/JWebAssembly

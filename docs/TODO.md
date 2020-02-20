@@ -4,7 +4,7 @@
   * [scala-optparse-applicative](https://github.com/bmjames/scala-optparse-applicative)  port from Haskell (unsupported)
   * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) port from Haskell (fork)
   * [clist](https://github.com/backuity/clist) (mutable)
-* [ ] DI i Guice  
+* [ ] DI i [Guice](https://github.com/google/guice) 
 * [ ] Web and Swagger UI:
   * [Udash](https://udash.io)
   * [ScalaWUI](https://github.com/openmole/scalaWUI) , [Scalatra](https://github.com/scalatra/scalatra)

@@ -10,6 +10,7 @@
   * [ScalaWUI](https://github.com/openmole/scalaWUI) , [Scalatra](https://github.com/scalatra/scalatra)
   * [DropWizard](https://github.com/dropwizard/dropwizard)
 * [ ] JSON - [scala-json](https://github.com/MediaMath/scala-json)
+* [ ] JSON - [json4s](https://github.com/json4s/json4s)
 * [ ] JSON - [Jackson](https://github.com/FasterXML/jackson)
 * [ ] [sbt-native-packager](https://www.scala-sbt.org/sbt-native-packager/index.html) - [GraalVM](https://www.scala-sbt.org/sbt-native-packager/formats/graalvm-native-image.html)
 * [ ] GCJ

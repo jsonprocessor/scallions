@@ -1,2 +1,2 @@
-I am squirrviel
-I eat grass
+I am squirrviel.
+I eat grass.

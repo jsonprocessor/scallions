@@ -5,7 +5,7 @@
   * [scala-optparse-applicative](https://github.com/bmjames/scala-optparse-applicative)  port from Haskell (unsupported)
   * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) port from Haskell (fork)
 * [ ] DI (two implementation pipe-identity)
-  * [Guice](https://github.com/google/guice)
+  * [Guice](https://github.com/google/guice) and [Scala Guice](https://github.com/codingwell/scala-guice)
   * [Dagger](https://github.com/google/dagger)
   * [MacWire](https://github.com/softwaremill/macwire)
   * [Objectify](https://github.com/learndot/Objectify.scala)

@@ -6,6 +6,7 @@
   * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) port from Haskell (fork)
 * [ ] DI (two implementation pipe-identity)
   * [Guice](https://github.com/google/guice)
+  * [Dagger](https://github.com/google/dagger)
   * cake pattern
   * normal
 * [ ] Web and Swagger UI:

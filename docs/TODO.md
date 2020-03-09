@@ -7,6 +7,7 @@
 * [ ] DI (two implementation pipe-identity)
   * [Guice](https://github.com/google/guice)
   * [Dagger](https://github.com/google/dagger)
+  * [Objectify](https://github.com/learndot/Objectify.scala)
   * cake pattern
   * normal
 * [ ] Web and Swagger UI:

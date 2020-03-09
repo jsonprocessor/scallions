@@ -4,7 +4,10 @@
   * [Scallop](https://github.com/scallop/scallop) port from Ruby
   * [scala-optparse-applicative](https://github.com/bmjames/scala-optparse-applicative)  port from Haskell (unsupported)
   * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) port from Haskell (fork)
-* [ ] DI i [Guice](https://github.com/google/guice) 
+* [ ] DI (two implementation pipe-identity)
+  * [Guice](https://github.com/google/guice)
+  * cake pattern
+  * normal
 * [ ] Web and Swagger UI:
   * [Udash](https://udash.io)
   * [ScalaWUI](https://github.com/openmole/scalaWUI) , [Scalatra](https://github.com/scalatra/scalatra)

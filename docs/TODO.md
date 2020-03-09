@@ -1,9 +1,9 @@
 * [ ] [Portable Scala](https://github.com/portable-scala/sbt-crossproject) and CLI
+  * [clist](https://github.com/backuity/clist) (mutable)
   * [Scopt](https://github.com/scopt/scopt)
   * [Scallop](https://github.com/scallop/scallop) port from Ruby
   * [scala-optparse-applicative](https://github.com/bmjames/scala-optparse-applicative)  port from Haskell (unsupported)
   * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) port from Haskell (fork)
-  * [clist](https://github.com/backuity/clist) (mutable)
 * [ ] DI i [Guice](https://github.com/google/guice) 
 * [ ] Web and Swagger UI:
   * [Udash](https://udash.io)

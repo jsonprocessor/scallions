@@ -4,7 +4,7 @@
   * [Scallop](https://github.com/scallop/scallop) port from Ruby
   * [scala-optparse-applicative](https://github.com/bmjames/scala-optparse-applicative)  port from Haskell (unsupported)
   * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) port from Haskell (fork)
-* [ ] DI (two implementation pipe-identity)
+* [ ] DI (two implementation pipe-identity) https://github.com/writeonly/son2/tree/master/scallions-core/scallions-funs/src/main/scala/pl/writeonly/son2/funs/streamers
   * [Guice](https://github.com/google/guice) and [Scala Guice](https://github.com/codingwell/scala-guice)
   * [Dagger](https://github.com/google/dagger) and [MacWire](https://github.com/softwaremill/macwire)
   * [Objectify](https://github.com/learndot/Objectify.scala)

@@ -29,6 +29,7 @@
   * [XML](https://github.com/FasterXML/jackson-dataformat-xml) 
   * [YAML](https://github.com/FasterXML/jackson-dataformats-text/tree/master/yaml)
 * [ ] Submodules Git :
+  * [INI](https://github.com/FasterXML/jackson-dataformat-ini)
   * [HOCON](https://github.com/jclawson/jackson-dataformat-hocon)
   * [Rison](https://github.com/Hronom/jackson-dataformat-rison)
   * [TOML](https://github.com/johnlcox/jackson-dataformat-toml)
